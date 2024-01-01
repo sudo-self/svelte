@@ -1,4 +1,7 @@
-# create-svelte
+# <a href="https://svlte.vercel.app">create-svelte</a>
+![Screenshot 2023-12-31 at 6 28 07 PM](https://github.com/sudo-self/svelte/assets/119916323/3f2b03cc-9da1-4629-8d99-c0cf706404f3)
+
+
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
 
