@@ -18,7 +18,7 @@
 			</picture>
 		</span>
 
-		web app&nbsp;<a href="https://svlte.vercel.app">svlte.vercel.app</a><br />
+		KV-Count&nbsp;<a href="https://kv-sveltekit.vercel.app">kv-svltekit.vercel.app</a><br />
 	</h1>
 
 	<h2>
